@@ -1,0 +1,1 @@
+This is Dragos's first git prokect 
